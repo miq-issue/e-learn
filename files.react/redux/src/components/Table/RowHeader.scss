@@ -1,0 +1,17 @@
+th {
+  background: lightslategrey;
+  .table__header {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  .table__header_sortedAsc {
+    color: red;
+  }
+  .table__header_sortedDsc {
+    color: navy;
+  }
+  .table__header_none {
+    color: #000;
+  }
+}
